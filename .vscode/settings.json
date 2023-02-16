@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\79831\\OneDrive\\Рабочий стол\\annotations-24.0.0.jar"
+    ]
+}
